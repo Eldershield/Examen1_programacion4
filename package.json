@@ -1,0 +1,15 @@
+{
+  "name": "examen1",
+  "version": "0.0.1",
+  "description": "Desarollo del Examen 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "keywords": [
+    "Examen",
+    "1"
+  ],
+  "author": "Jesus Daniel Bautista",
+  "license": "ISC"
+}
